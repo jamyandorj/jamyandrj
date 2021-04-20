@@ -62,6 +62,6 @@
         
         npm i gj bicne bas npm start gj bicne 
         
-7.  odoo  browseroo gargaaad "Localhost:3000" гэж бичнэ
+7.  odoo  browseroo gargaaad "Localhost:3000" gej bicih hergtei 
 
 
